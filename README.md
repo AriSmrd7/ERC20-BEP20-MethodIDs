@@ -1,1 +1,1 @@
-# ERC20-BEP20-MethodIDs
+# List of Known Method ID
